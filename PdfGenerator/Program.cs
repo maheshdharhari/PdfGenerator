@@ -16,7 +16,7 @@ namespace PdfGenerator
             {
                 Name = "Sample Form",
                 Href =
-                    "https://devblog.maheshyadav.com.np/development%20tutorials/programming%20techniques/software%20engineering/Seamless-PDF-Generation-with-Puppeteer-in-C-Sharp/"
+                    "https://blog.maheshyadav.com.np/development%20tutorials/programming%20techniques/software%20engineering/Seamless-PDF-Generation-with-Puppeteer-in-C-Sharp/"
             };
             string docPhysicalPath = item.Name + ".pdf";
             // Execute the PDF generation
